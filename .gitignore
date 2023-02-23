@@ -3,3 +3,5 @@
 *.fig
 .DS_Store
 .prettierignore
+.prettierrc
+design
